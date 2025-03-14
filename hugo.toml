@@ -4,7 +4,8 @@ title = 'DevBlog Theme Demo Site'
 theme = 'devblog'
 
 [params]
-    description = "This is a demo site for the hugo DevBlog Theme"
+  description = "This is a demo site for the hugo DevBlog Theme"
+  favicon = "/favicon.ico"
 
 [params.social]
   github = "aaxyat"
